@@ -16,3 +16,9 @@
 - Gpt
     - Dearch bar
     - Movie Suggestion
+
+### FireBase Deployment : 
+- Install Firebase  CLI - `npm i -g firebase-tools`
+- FireBase Login - `firebase login`
+- Initilize Firebase - `firebase init`, then select hosting 
+- Deploy cmd - `firebase deploy`
